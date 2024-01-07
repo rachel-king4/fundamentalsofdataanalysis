@@ -36,4 +36,6 @@ To run the notebooks, the repository must first be cloned to the user's machine,
 - Any changes made to the remote repository will not automatically sync with the local cloned copy. To update the local directory, navigate to the cloned directory and use this command:
     > git pull
 
+Once the repository is cloned, the cloned directory can be opened and ran in a code editor such as Visual Studio Code.
+
 
