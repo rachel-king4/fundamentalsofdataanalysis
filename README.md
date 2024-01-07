@@ -1,15 +1,14 @@
 # Fundamentals of Data Analysis
 
 
-Repository for Fundamentals of Data Analysis Module Winter 2023
+Repository for Fundamentals of Data Analysis Module, Winter 2023
 
 ## Contents of the Repository
 
 This repository contains coursework created and maintained as part of the module Fundamentals of Data Analysis, undertaken as part of the Higher Diploma in Science in Data Analytics in ATU, Galway.
 
-The repository contains three Jupyter notebooks
+The repository contains two Jupyter notebooks:
 
-- mynotebook.ipynb (contains notes and code written by me throughout the module, for personal use)
 - tasks.ipynb (contains my answers to assessment tasks set out by the module lecturer, accounts for 50% of the module assessment)
 - project.ipynb (contains my code and notes for the project assessment set out by the module lecturer, accounts for 50% of the module assessment)
 
